@@ -7,7 +7,7 @@ package wojtonfootballproject;
 
 /**
  *
- * @author JohnWojton
+ * @author JohnWojton *
  */
 public class WojtonFootballProject {
 
